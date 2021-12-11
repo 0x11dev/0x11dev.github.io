@@ -6,5 +6,6 @@
 e: ping[at]0x11.dev
 thm: https://tryhackme.com/p/0x11dev
 hackerone: 0x11dev
+loc: KE
 ```
 
